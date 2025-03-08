@@ -1,3 +1,7 @@
+#Live preview of project
+https://hindi-calculator-n38b.vercel.app/
+
+
 # Hindi Calculator (हिंदी कैलकुलेटर)
 
 A beautiful and modern calculator application that displays numbers and operations in Hindi (Devanagari) script. Built with React, TypeScript, and Material-UI.
