@@ -23,8 +23,8 @@ A beautiful and modern calculator application that displays numbers and operatio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/hindi-calculator.git
-cd hindi-calculator
+git clone https://github.com/Satishchoudhary94/HindiCalculator.git
+cd HindiCalculator
 ```
 
 2. Install dependencies:
